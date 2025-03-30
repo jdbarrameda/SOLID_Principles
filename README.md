@@ -1,4 +1,4 @@
-# SOLID Principles Refactoring Challenge
+# SOLID Principles
 
 ## Problem Description
 The given code violates multiple SOLID principles in Object-Oriented Programming (OOP). The goal is to refactor the code to adhere to these principles while maintaining functionality.
